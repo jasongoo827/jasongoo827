@@ -1,8 +1,9 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-![HTML5](https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=C)
+![Unity](https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C)
 ![JavaScript](https://img.shields.io/badge/-C#-%23F7DF1C?style=for-the-badge&logo=C#&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
