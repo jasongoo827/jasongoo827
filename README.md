@@ -18,10 +18,10 @@
   <img alt="GMail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com" />
 </p>
 
-<h3>I Love playing Games Like</h3>
+<h3>I LOVE playing Games Like</h3>
 <p>
   <img src="https://www.kindpng.com/picc/m/2-25021_civilization-6-logo-transparent-hd-png-download.png" alt="Civilization 6 Logo Transparent, HD Png Download@kindpng.com">
-  
+  <a href="https://www.freepnglogos.com/pics/lol-logo" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/lol-logo-png/league-of-legends-riot-games-logo-5.PNG" width="200" alt="league of legends riot games logo" /></a>
 </p>
     
 
