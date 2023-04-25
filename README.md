@@ -5,6 +5,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?style=for-the-badge&logo=C%2B%2B)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+
 
 
 <br/>
