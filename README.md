@@ -22,9 +22,9 @@
 <p>
   <div style = "text-align:center";>
   <img src="https://www.kindpng.com/picc/m/2-25021_civilization-6-logo-transparent-hd-png-download.png" width="200" alt="Civilization 6 Logo Transparent, HD Png Download@kindpng.com">
-  </div>
-   <img src="https://www.freepnglogos.com/uploads/lol-logo-png/league-of-legends-riot-games-logo-5.PNG" width="200" alt="league of legends riot games logo" />
-   <img src="https://www.pngkey.com/png/detail/1010-10104973_free-png-the-witcher-3-logo-png-images.png" width="200" alt="The Witcher 3 Wild Hunt Logo"/>
+  </div><br>
+   <img src="https://www.freepnglogos.com/uploads/lol-logo-png/league-of-legends-riot-games-logo-5.PNG" width="200" alt="league of legends riot games logo" /><br>
+   <img src="https://www.pngkey.com/png/detail/1010-10104973_free-png-the-witcher-3-logo-png-images.png" width="200" alt="The Witcher 3 Wild Hunt Logo"/><br>
 </p>
     
 
