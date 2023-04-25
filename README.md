@@ -1,5 +1,5 @@
-<br />
-<h2> My tech stack 📚 </h2>
+
+# My tech stack 📚
 
 ![Unity](https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C.svg?style=for-the-badge&logo=C%2B%2B)
@@ -11,4 +11,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com)](mailto:maruluv0527@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com)](mailto:jasongoo@naver.com)
 
-<br/>
