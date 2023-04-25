@@ -7,6 +7,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-
+<h2> Contacts </h2>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com)](mailto:maruluv0527@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com)](mailto:jasongoo@naver.com)
 
 <br/>
