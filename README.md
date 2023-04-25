@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Jason, Game developer from <img src="https://user-images.githubusercontent.com/81475273/234159070-236ce67a-2069-49b9-9fa1-d450b0db6901.png" width="30"/> <b>Seoul, Korea</b>
+<p>Welcome to my page! </br> I'm Jason, Game developer from <img src="https://user-images.githubusercontent.com/81475273/234159070-236ce67a-2069-49b9-9fa1-d450b0db6901.png" width="30"/> <b>Seoul, Korea</b></br>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff" />
@@ -11,12 +12,11 @@
 </p>
 
 
-
 <h3>Where to find me...</h3>
 <p>
   <img alt="GMail" src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com" />
   <img alt="GMail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com" />
-</p>
+</p></br>
 
 <h3>I LOVE playing Games Like</h3>
 <p>
