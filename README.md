@@ -12,7 +12,7 @@
 
 
 
-<h3>Contacts</h3>
+<h3>Where to find me...</h3>
 <p>
   <img alt="GMail" src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com" />
   <img alt="GMail" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com" />
