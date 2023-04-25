@@ -20,10 +20,10 @@
 
 <h3>I LOVE playing Games Like</h3>
 <p>
-  <DIV style = "text-align:center";>
+  <div style = "text-align:center";>
   <img src="https://www.kindpng.com/picc/m/2-25021_civilization-6-logo-transparent-hd-png-download.png" width="200" alt="Civilization 6 Logo Transparent, HD Png Download@kindpng.com">
   <img src="https://www.freepnglogos.com/uploads/lol-logo-png/league-of-legends-riot-games-logo-5.PNG" width="200" alt="league of legends riot games logo" />
-  </DIV>
+  </div>
   
 </p>
     
