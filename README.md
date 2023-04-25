@@ -1,11 +1,14 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-# My tech stack 📚
-
-![Unity](https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-00599C.svg?style=for-the-badge&logo=C%2B%2B)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-F05032?style=for-the-badge&logo=Unity&logoColor=ffffff" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white" /> 
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C.svg?style=for-the-badge&logo=C%2B%2B" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" />
+</p>
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com)](mailto:maruluv0527@gmail.com)
