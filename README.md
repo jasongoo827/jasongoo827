@@ -12,7 +12,7 @@
 
 
 
-<h3>Contacts</h3>
+# :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maruluv0527@gmail.com)](mailto:maruluv0527@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jasongoo@naver.com)](mailto:jasongoo@naver.com)
 
