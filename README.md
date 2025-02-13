@@ -1,11 +1,14 @@
+## Contact  
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:jasongoo@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maruluv0527@gmail.com)  
+
 ## 🎮 Welcome to My GitHub! 🚀
 Hi there! I'm a passionate **Game Engine Developer** working with **C/C++**.  
 I love building high-performance, optimized game frameworks and exploring **low-level programming**.  
 
-🛠 **Languages**: C, C++, C#, Python
-⚙ **Specialties**: Game Engine Development, Rendering, Physics
+🛠 **Languages**: C, C++, C#, Python  
+⚙ **Specialties**: Game Engine Development, Rendering, Physics  
 🎯 **Currently Learning**: Vulkan, ECS, Low-Level Optimization  
-
 
 ### 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,15 +29,4 @@ I love building high-performance, optimized game frameworks and exploring **low-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasongoo827&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongoo827&layout=compact&theme=dark)
 
-
-## 🏗 Featured Projects
-🚀 [**AfterLife Engine**](https://github.com/Very-Real-Engine/ALEngine) - Vulkan C++ game engine built from scratch  
-🔹 [**MiniRT**](https://github.com/jasongoo827/MiniRT) - A Phong-based renderer simulates realistic lighting
-🎮 [**FDF**](https://github.com/jasongoo827/FDF) - Simple Renderer drawing FDF Maps
-
-
-## 📫 Contact  
-
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:jasongoo@naver.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maruluv0527@gmail.com)  
 
