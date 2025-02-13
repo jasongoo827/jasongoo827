@@ -1,5 +1,3 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Banner" width="100%">
-
 ## 🎮 Welcome to My GitHub! 🚀
 Hi there! I'm a passionate **Game Engine Developer** working with **C/C++**.  
 I love building high-performance, optimized game frameworks and exploring **low-level programming**.  
@@ -27,8 +25,8 @@ I love building high-performance, optimized game frameworks and exploring **low-
 ---
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasongoo827&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongoo827&layout=compact&theme=dark)
 
 ---
 
