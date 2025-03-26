@@ -1,6 +1,6 @@
 # Goo Jae Woo
 ## 🎮 Welcome to My GitHub! 🚀
-Hi there! I'm a passionate **Game Engine Developer** working with **C/C++**.  
+Hi there! I'm a passionate **Game & Graphics Developer** working with **C/C++**.  
 I love building high-performance, optimized game frameworks and exploring **low-level programming**.  
 
 ## Skills
