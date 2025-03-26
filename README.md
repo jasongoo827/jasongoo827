@@ -1,7 +1,13 @@
 # Goo Jae Woo
 ## 🎮 Welcome to My GitHub! 🚀
 Hi there! I'm a passionate **Game & Graphics Developer** working with **C/C++**.  
-I love building high-performance, optimized game frameworks and exploring **low-level programming**.  
+I love building high-performance, optimized game frameworks and exploring **low-level programming**.
+
+## ✍️ Blog  
+I write about **game development, graphics programming, and low-level systems** on my blog.  
+Check out my latest posts here!  
+
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://jasongoo827.github.io/)
 
 ## Skills
 ### Languages
