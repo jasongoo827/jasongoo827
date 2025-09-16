@@ -4,10 +4,10 @@ Hi there! I'm a Developer passionate about building performant and scalable syst
 I work with C/C++, JavaScript, and enjoy tackling complex technical challenges across various domains.
 
 ## 💻 What I Do
-System Programming: Low-level programming, OS internals, and network protocols
-Game Development: Game engines, graphics programming, and performance optimization
-Web Development: Real-time applications, WebSocket, and microservices architecture
-Cloud & DevOps: Docker, containerization, and distributed systems
+- System Programming: Low-level programming, OS internals, and network protocols
+- Game Development: Game engines, graphics programming, and performance optimization
+- Web Development: Real-time applications, WebSocket, and microservices architecture
+- Cloud & DevOps: Docker, containerization, and distributed systems
 
 ## ✍️ Blog  
 I write about **software, game development, system architecture, and technical deep-dives** on my blog.  
